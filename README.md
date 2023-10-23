@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello I a
+![Banner lifeStyle](/Img/Banner.png)
 <!--
 **juanetchart29/juanetchart29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
