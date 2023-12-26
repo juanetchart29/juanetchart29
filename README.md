@@ -1,5 +1,6 @@
 ### Hello I a
-![Banner lifeStyle](/Img/Banner.png)
+![Banner](https://github.com/juanetchart29/juanetchart29/assets/114407900/12150eec-1623-4605-95ae-b65bb904fa0e)
+
 <!--
 **juanetchart29/juanetchart29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
