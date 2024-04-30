@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/juanetchart29/juanetchart29/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/juanetchart29/juanetchart29/output/snake.svg" alt="Snake animation" />
 
 ###
