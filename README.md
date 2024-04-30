@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juan+Pablo+Etchart!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Argentina 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Argentina</h3>
 
 <br/>
 
@@ -59,4 +59,4 @@
     <img src="https://raw.githubusercontent.com/juanetchart29/juanetchart29/86b321b8d1c2ac29d7b0ddb5f7def4a03bc8b7ed/snake.svg?token=A3I3TXBM7O2JT65GM53V7MDGGECF6" alt="Snake animation" />
   <br/><br/><br/>
 </div>
-###
+
