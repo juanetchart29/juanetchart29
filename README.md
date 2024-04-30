@@ -1,4 +1,10 @@
-<h3 align="left">Hi! My name is Juan Pablo Etchart I'm from Argentina and</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Argentina 🇨🇦</h3>
+
+<br/>
 
 ###
 
@@ -10,6 +16,9 @@
 ###
 
 <div align="center">
+  <a href="mailto:juanetchart29@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
   <a href="https://www.linkedin.com/in/juan-pablo-etchart-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -17,7 +26,8 @@
 </div>
 
 ###
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
@@ -43,7 +53,10 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/juanetchart29/juanetchart29/86b321b8d1c2ac29d7b0ddb5f7def4a03bc8b7ed/snake.svg?token=A3I3TXBM7O2JT65GM53V7MDGGECF6" alt="Snake animation" />
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+    <img src="https://raw.githubusercontent.com/juanetchart29/juanetchart29/86b321b8d1c2ac29d7b0ddb5f7def4a03bc8b7ed/snake.svg?token=A3I3TXBM7O2JT65GM53V7MDGGECF6" alt="Snake animation" />
+  <br/><br/><br/>
+</div>
 ###
